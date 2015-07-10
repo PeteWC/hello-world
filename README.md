@@ -1,2 +1,3 @@
 # hello-world
-1st repository
+1st reposit
+My name is Pete and I'm here to learn.
